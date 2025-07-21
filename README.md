@@ -37,6 +37,3 @@ python run_magloceval.py --input your_test_results.csv
 - 可视化生成：
     - CDF 曲线图
     - 平面误差热力图
-
----
-如需持续扩展或科研论文结果可视化，请联系助手继续协助完成。
