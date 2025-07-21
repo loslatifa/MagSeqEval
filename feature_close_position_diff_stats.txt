@@ -1,0 +1,7 @@
+📊 Feature Distance Statistics for: sdcs_f4_furui-MTCP-600/evaluate_figure/mag_seq_error_analysis/feature_close_position_diff.csv
+Mean: 922.5839
+Median: 946.6667
+Std: 157.2517
+Min: 612.7426
+Max: 1154.2626
+Count: 20.0000
